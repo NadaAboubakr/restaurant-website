@@ -14,3 +14,8 @@ The website contains the following pages:
 - menu >> "menu.php"
 - reservation >> "reservation.php"
 - registeration >> "registeration.php"
+
+
+Credits:
+- my teammate HebaAllah Mohamed 
+
