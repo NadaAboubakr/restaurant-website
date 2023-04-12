@@ -1,7 +1,7 @@
 # HENA's restaurant
 This folder contains different files representing different webpages in the restaurant website.
 We designed it to be a simple and elegant at the same time inspired by many existing websites in the same field.
-This is a pair project where we implemented different scripting languages like HTML, CSS, Java Script for validation and PHP to connect the database
+This is a pair project where we implemented different languages like HTML, CSS, Java Script for validation and PHP to connect the database
 
 please note:
 - we placed our folder in the directory "C:\xampp\htdocs" which is the way we used to run our php code 
