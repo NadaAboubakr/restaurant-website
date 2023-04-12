@@ -1,6 +1,6 @@
 # HENA's restaurant
 This folder contains different files representing different webpages in the restaurant website.
-We designed it to be a simple and elegant at the sam time inspired by many existing websites in the same field.
+We designed it to be a simple and elegant at the same time inspired by many existing websites in the same field.
 This is a pair project where we implemented different scripting languages like HTML, CSS, Java Script for validation and PHP to connect the database
 
 please note:
