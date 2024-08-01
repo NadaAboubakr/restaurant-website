@@ -41,16 +41,16 @@ function ValidationEvent() {
 
   }
   function gofb(){
-    a= window.confirm("WE will happy of your visit to our facebook page.");
+    a= window.confirm("WE will be happy of your visit to our Facebook page.");
     if (a)
     window.location="https://www.facebook.com/profile.php?id=100088979765954&mibextid=LQQJ4d";
     }
     function goinsta(){
-      a= window.confirm("we will be happy to visit our page on instagram? ");
+      a= window.confirm("we will be happy to visit our page on Instagram? ");
     if (a)
     window.location="https://www.instagram.com/invites/contact/?i=18gqgxa0ld27&utm_content=q4dueqjhttp://www.instagram.com";
     }
     function gotwitt(){
-    a= window.confirm("we will be happy to visit our page on twitter? ");
+    a= window.confirm("we will be happy to visit our page on Twitter? ");
     if (a)
     window.location="https://twitter.com/henasrestaurant";}
